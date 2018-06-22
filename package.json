@@ -1,6 +1,6 @@
 {
   "name": "@candide/apollo-client",
-  "version": "1.9.4",
+  "version": "1.9.5",
   "description": "A silly GraphQL client whose maintainers won't publish fixes.",
   "main": "./lib/apollo.umd.js",
   "module": "./lib/src/index.js",
